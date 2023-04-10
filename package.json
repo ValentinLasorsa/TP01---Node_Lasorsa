@@ -1,0 +1,23 @@
+{
+  "name": "tp01---node_lasorsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ej1.js"
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinLasorsa/TP01---Node_Lasorsa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinLasorsa/TP01---Node_Lasorsa/issues"
+  },
+  "homepage": "https://github.com/ValentinLasorsa/TP01---Node_Lasorsa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
